@@ -1,3 +1,16 @@
+# **Introduction to VLSI**  
+
+## **Course Overview**  
+"Introduction to VLSI" is a course that provides a general introduction to **digital and analog circuits**.  
+
+- **First half of the semester**: Focuses on **digital circuit programming**, where students learn to write and implement digital circuits.  
+- **Mid-term project**: A **small practical project** to apply the concepts learned in digital circuit design.  
+- **Second half of the semester**: Focuses on **analog circuit layout design**, helping students gain **hands-on experience in IC design**.  
+
+All course **PPT slides** are stored in the **"slide"** folder.  
+
+---
+
 # **Lab 7: Design of Local Binary Pattern Facial Recognition System**  
 
 ## **1. Introduction**  
