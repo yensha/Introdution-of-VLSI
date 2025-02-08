@@ -25,22 +25,29 @@ Students will integrate multiple components, including **CLBP, HCU, Comparator, 
 <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%871.png?raw=true" width="500">
 
 ### **Internal Block Diagram**  
-<img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%874.png?raw=true" width="500"><img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%875.png?raw=true" width="200">
+
+<img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%874.png?raw=true" width="300"> <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%875.png?raw=true" width="300">
 
 The system consists of several key modules:  
 - **TOP Module**: Main module integrating all submodules.
+  
 <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%874.png?raw=true" width="250"> <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%875.png?raw=true" width="250">
 
 - **CLBP (Completed Local Binary Pattern)**: Computes the local binary pattern for facial image data.
+  
 <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%876.png?raw=true" width="250">
 
 - **HCU (Histogram Computation Unit)**: Generates histograms from CLBP data.
+  
 <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%877.png?raw=true" width="250"> <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%878.png?raw=true" width="250">
 
 - **Comparator**: Compares input histograms with stored histograms to identify the closest match.
+  
 <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%879.png?raw=true" width="250">
 - **Controller**: Manages different states of the system (training, prediction, comparison).
+
 <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%8710.png?raw=true" width="250"> <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%8711.png?raw=true" width="250">
+
 - **DCU (Distance Computation Unit)**: Calculates the distance metric for facial recognition.  
 
 ---
