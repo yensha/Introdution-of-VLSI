@@ -26,7 +26,8 @@ Students will integrate multiple components, including **CLBP, HCU, Comparator, 
 
 ### **Internal Block Diagram**  
 
-<img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%872.png?raw=true" width="300"> <img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%873.png?raw=true" width="300">
+<img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%872.png?raw=true" width="500">
+<img src="https://github.com/yensha/Introdution-of-VLSI/blob/main/img/%E5%9C%96%E7%89%873.png?raw=true" width="500">
 
 The system consists of several key modules:  
 - **TOP Module**: Main module integrating all submodules.
